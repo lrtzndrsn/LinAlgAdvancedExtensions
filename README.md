@@ -3,7 +3,7 @@ The vector Library inside "Core" was written by François Lauze (francois@di.ku.
 
 The code for Advanced Extensions.py was written by me.
 
-With the library written by Francois, I have implemented common Linear Algebra algorithms, such as Gramm Schmidt, Norm, Transposition, etc. 
+With the library written by Francois, I have implemented common Linear Algebra algorithms, such as Gramm-Schmidt, Norm, Transposition, etc. 
 
 
 ## How to run
